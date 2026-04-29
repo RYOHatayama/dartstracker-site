@@ -8,6 +8,7 @@ DartsTracker をご利用いただきありがとうございます。
 ご質問・不具合のご報告は以下までお願いします。
 
 **連絡先**: hatayamadevelopment@gmail.com
+
 返信の目安: 3 営業日以内
 
 ---
