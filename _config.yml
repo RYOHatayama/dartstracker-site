@@ -1,0 +1,5 @@
+title: DartsTracker                                                                                      
+description: ダーツの練習メニュー管理アプリ               
+theme: jekyll-theme-minimal
+lang: ja
+permalink: /:basename
