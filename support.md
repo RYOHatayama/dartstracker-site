@@ -3,6 +3,9 @@ layout: default
 title: DartsTracker サポート
 ---
 # DartsTracker サポート
+
+[English](/en/support)
+
 DartsTracker をご利用いただきありがとうございます。
 
 ご質問・不具合のご報告は以下までお願いします。

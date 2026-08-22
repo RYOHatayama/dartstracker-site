@@ -5,6 +5,8 @@ title: DartsTracker プライバシーポリシー
 
 # DartsTracker プライバシーポリシー
 
+[English](/en/privacy)
+
 最終更新日: 2026-04-29 
 
 DartsTracker（以下「本アプリ」といいます）は、ユーザーのプライバシーを尊重し、個人情報の保護に努めます。

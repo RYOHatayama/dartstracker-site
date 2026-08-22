@@ -5,6 +5,8 @@ title: DartsTracker
 
 # DartsTracker
 
+[English](/en/)
+
 ダーツの練習メニュー管理アプリ「DartsTracker」の公式サイトです。
 
 ## ドキュメント
